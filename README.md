@@ -37,7 +37,7 @@ This project showcases my knowledge of this powerful machine learning model and 
 Many computations happen in the background to ensure that the users can navigate the app smoothly and without error.
 I highly recommend checking the code in this repository to see some of the strategies I used to guarantee that the code runs without errors independently of the order in which users interact with the buttons.
 <p align="center">
-<img src="https://github.com/naraujodc/Araujo_Data_Science_Portfolio/blob/main/MLStreamlitApp/images/decision-tree-app-initial-page.png">
+<img src="https://github.com/naraujodc/Decision_Tree_App/blob/main/images/decision-tree-app-initial-page.png">
 Screenshot of the initial page when a user opens the app
 </p>
 
