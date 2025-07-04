@@ -18,7 +18,7 @@
 ## Project Overview (With Visual Examples)
 
 <p align="center">
-<a href="https://decision-tree-tuning.streamlit.app"><img alt="Decision Tree Hyperparameter Tuning App" src="https://img.shields.io/badge/Decision_Tree_Hyperparameter_Tuning_App-ddf2d1?style=for-the-badge"/></a> &nbsp;
+<a href="https://decisiontrees.streamlit.app"><img alt="Decision Tree Hyperparameter Tuning App" src="https://img.shields.io/badge/Decision_Tree_Hyperparameter_Tuning_App-ddf2d1?style=for-the-badge"/></a> &nbsp;
 </p>
 
 This project is an interactive app that invites the user to explore the effects of hyperparameters on decision tree machine learning models. The user is able to:
@@ -96,7 +96,7 @@ def find_best_tree(X_train, y_train, X_test, scoring):
 ## Instructions for Use
 The app has been deployed and can be accessed with the URL below. To use the app, simply visit the following link:
 <p align="center">
-<a href="https://decision-tree-tuning.streamlit.app"><img alt="Decision Tree Hyperparameter Tuning App" src="https://img.shields.io/badge/Decision_Tree_Hyperparameter_Tuning_App-ddf2d1?style=for-the-badge"/></a> &nbsp;
+<a href="https://decisiontrees.streamlit.app"><img alt="Decision Tree Hyperparameter Tuning App" src="https://img.shields.io/badge/Decision_Tree_Hyperparameter_Tuning_App-ddf2d1?style=for-the-badge"/></a> &nbsp;
 </p>
 
 If you want to download and run the code yourself, follow the instructions below:
