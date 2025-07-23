@@ -105,7 +105,7 @@ If you want to download and run the code yourself, follow the instructions below
 ```
 git clone https://github.com/naraujodc/Decision_Tree_App
 
-cd MLStreamlitApp
+cd Decision_Tree_App
 ```
 3. In a new environment, install the dependencies.
 ```
@@ -113,7 +113,7 @@ conda activate new_env
 
 pip install -r requirements.txt
 ```
-4. In the terminal, make sure you are in `MLStreamlitApp`. If not, cd into it.
+4. In the terminal, make sure you are in `Decision_Tree_App`. If not, cd into it.
 5. In the terminal, run the app on Streamlit.
 ```
 streamlit run decision-tree.py
