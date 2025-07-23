@@ -103,7 +103,7 @@ If you want to download and run the code yourself, follow the instructions below
 1. Install Anaconda.
 2. Clone this repository and cd into it.
 ```
-git clone https://github.com/naraujodc/Araujo_Data_Science_Portfolio
+git clone https://github.com/naraujodc/Decision_Tree_App
 
 cd MLStreamlitApp
 ```
